@@ -7,4 +7,5 @@ Jupyter notebook that shows data collection via the Department of Education API 
 
 ## Classification.ipynb
 
+
 Jupyter notebook that uses SQL queries to build a data set, cleans the data set, and then uses classification algorithms to identify schools that closed by 2017.
